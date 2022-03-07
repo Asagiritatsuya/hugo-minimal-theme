@@ -42,20 +42,19 @@ FPGA（Xilinx）、8051单片机、STM32单片机、PCB设计、服务器搭建�
 
 ## Experience
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+### 下北泽雷普微电子有限公司
+#### Electronic Engineer • Nov 2020 - Now • Changchun
+愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。
+能做事的做事，能发声的发声。
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Education
 
 ### 长春理工大学
 #### Electronic science and technolog • Sep 2020 - Jul 2024 • 长春
-有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。此后如竟没有炬火，我便是唯一的光。
+有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。
+此后如竟没有炬火，我便是唯一的光。
 
 ## Get in Touch
 
