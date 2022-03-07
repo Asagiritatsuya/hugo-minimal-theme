@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+title: "在黑暗中负重前行的人"
 subtitle: ""
 
 design:
@@ -34,11 +34,11 @@ advanced:
 
 ## My Mission
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+日语N2、托业、基于AdalmPluto的1.420GHz射电天文望远镜、基于OpenBci的音乐治疗系统的硬件构建、基于FPGA+ARM的认知软件无线电相关的物联网开发、基于STM32的体温监测以及生物特征传感手表
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+FPGA（Xilinx）、8051单片机、STM32单片机、PCB设计、服务器搭建、射频无线电系统设计与制造、MATLAB、C、C++、Python
 
 ## Experience
 
@@ -53,16 +53,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Education
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+### 长春理工大学
+#### Electronic science and technolog • Sep 2020 - Jul 2024 • 长春
+有一分热，发一分光，就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。此后如竟没有炬火，我便是唯一的光。
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)  
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:asagiritatsuya@outlook.com)  
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/Asagiri_sakura)  
+[{{< icon name="weixin" pack="fab" >}}Wechat](sakura_aosora)  
 
 ## Credits
 
